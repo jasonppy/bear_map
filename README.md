@@ -1,0 +1,1 @@
+This project is from course [Berkeley CS61B Spring2018](https://sp18.datastructur.es/index.html), which is the back end of a [website](http://grigomaps.herokuapp.com/map.html) that displays a map of the city of Berkeley. This website supports scrolling, zooming, route finding and corresponding driving instructions.
